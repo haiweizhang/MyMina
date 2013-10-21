@@ -1,0 +1,4 @@
+MyMina
+======
+
+mina eclipse project
